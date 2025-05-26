@@ -17,6 +17,6 @@
 📖 learning spring, minecraft fabric, bukkit/spigpt
 
 ## проекты / prolects
+- HDDInfo - simple disk viewer on javaFX `in progress` / - простой просмотр дисков на javaFX `в процессе`
+  https://github.com/DarkRouteS22/HDDInfo
 
-`пока ничего`
-`nothing yet`
